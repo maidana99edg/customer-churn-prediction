@@ -1,0 +1,1 @@
+Logré un modelo con Random Forest que predice la fuga de clientes con un 79% de precisión
