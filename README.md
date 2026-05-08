@@ -23,7 +23,7 @@ El modelo de Inteligencia Artificial fue entrenado y evaluado con los siguientes
 
 ### Importancia de las Variables
 ![Gráfico de Importancia](docs/importancia_variables.png) 
-*(Asegurate de que el nombre del archivo en la carpeta docs sea exacto)*
+
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clonar el repositorio: `git clone https://github.com/maidana99edg/customer-churn-prediction.git`
@@ -31,4 +31,4 @@ El modelo de Inteligencia Artificial fue entrenado y evaluado con los siguientes
 3. Abrir el notebook en `notebooks/` y ejecutar las celdas.
 
 ---
-**Autor:** Edgar Maidana - Estudiante de Lic. en Ciencias de la Computación.
+**Autor:** Edgar Maidana - Estudiante de Lic. en Informatica.
